@@ -18,14 +18,15 @@ ______________________________________________________
 - Decide time frame for exploratory data analysis
 - Data cleaning
 - Cross reference demographic data with census data
-- Analyze factors correlated with our project goals (e.g. income, profession)
-- Create data visualizations
+- Analyze factors correlated with our project goals (income, industry, and gender)
+- Create data visualizations (total traffic of top 5 stations based on hourly, daily, and weekly data)
 - Presentation preparations
 
 ## Findings
-- We found the MTA stations with the most traffic over our 4 week period
+- We found the 5 MTA stations with the most traffic over our 4 week period
 - The data was aggregated to find the average weekly activity based on time and weekday
-- 
+- Demographics were analyzed for the top 5 stations
+- Scorecards created with weighted combinations of factors for each station
 
 ## Libraries used
 - [Jupyter](https://jupyter.org/)
@@ -36,3 +37,4 @@ ______________________________________________________
 - [Seaborn](https://seaborn.pydata.org/index.html)
 
 ## Blog links
+- 
