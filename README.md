@@ -12,6 +12,7 @@ ______________________________________________________
 ## Data Sources
 - http://web.mta.info/developers/turnstile.html (MTA subway station data)
 - https://www.kaggle.com/muonneutrino/new-york-city-census-data?select=nyc_census_tracts.csv (New York City census data)
+- https://ny.curbed.com/maps/amazon-google-facebook-nyc-offices (NYC tech map)
 
 ## Methodology
 - Get the MTA and demographic datasets
@@ -28,13 +29,12 @@ ______________________________________________________
 - Demographics were analyzed for the top 5 stations
 - Scorecards created with weighted combinations of factors for each station
 
-## Libraries used
+## Libraries and Notebook used
 - [Jupyter](https://jupyter.org/)
 - [Pandas](https://pandas.pydata.org/)
 - [Numpy](https://numpy.org/)
 - [Scikit-learn](https://scikit-learn.org/stable/)
 - [Matplotlib](https://matplotlib.org/)
-- [Seaborn](https://seaborn.pydata.org/index.html)
 
 ## Blog links
 - 
